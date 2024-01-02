@@ -1,3 +1,4 @@
 <h1>Gitチュートリアル</h1>
 <p1>git statasu</p1>
 <p1>git commit --amend</p1>
+<p>git marge <p>
